@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaScotlandFlag", "PandaS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfSum", "HalfSum\HalfSum.csproj", "{01315B54-6351-4210-8E1C-66FEAF386603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammerDNA", "ProgrammerDNA\ProgrammerDNA.csproj", "{36558643-5A79-4DF1-9EE8-844220CCF920}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{01315B54-6351-4210-8E1C-66FEAF386603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01315B54-6351-4210-8E1C-66FEAF386603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01315B54-6351-4210-8E1C-66FEAF386603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36558643-5A79-4DF1-9EE8-844220CCF920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36558643-5A79-4DF1-9EE8-844220CCF920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36558643-5A79-4DF1-9EE8-844220CCF920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36558643-5A79-4DF1-9EE8-844220CCF920}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
